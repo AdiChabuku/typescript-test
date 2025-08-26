@@ -1,0 +1,12 @@
+[
+  {
+    "id": "entry-001",
+    "schema": "Banner",
+    "data": {
+      "title": "Black Friday Sale",
+      "imageUrl": "https://cdn.example.com/banner.jpg",
+      "ctaUrl": "https://example.com/shop",
+      "isActive": true
+    }
+  }
+]

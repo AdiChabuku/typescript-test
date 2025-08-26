@@ -1,0 +1,14 @@
+{
+  "name": "PromoBanner",
+  "schemas": [
+    {
+      "name": "Banner",
+      "fields": [
+        { "name": "title", "type": "text", "required": true },
+        { "name": "imageUrl", "type": "text", "required": false },
+        { "name": "ctaUrl", "type": "text", "required": false },
+        { "name": "isActive", "type": "boolean", "required": true }
+      ]
+    }
+  ]
+}
