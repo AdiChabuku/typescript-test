@@ -1,4 +1,4 @@
-# Headless CMS Lead Developer Challenge
+#Headless Content Delivery Backend: TypeScript-Powered Multi-CMS Aggregator for Personalized Experiences
 
 Build a TypeScript backend for a headless CMS platform that demonstrates your skills in:
 
